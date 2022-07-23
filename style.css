@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    
+    display: block;
+}
+
+body {
+    background-color: rgb(210, 153, 30);
+}
+    
